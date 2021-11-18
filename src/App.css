@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+input {
+  color: white !important;
+  border-color: white;
+}
+
+.hero-photo {
+  max-width: 600px;
+  width: 100%;
+}
+
+.span {
+  margin: 100px;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding: 0;
+}
